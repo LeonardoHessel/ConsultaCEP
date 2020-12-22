@@ -1,0 +1,10 @@
+C:\DevFiles\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe.config
+C:\DevFiles\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.exe
+C:\DevFiles\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csprojAssemblyReference.cache
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.FrmConsultaCEPs.resources
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.Properties.Resources.resources
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.GenerateResource.cache
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csproj.CoreCompileInputs.cache
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.exe
+C:\DevFiles\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
